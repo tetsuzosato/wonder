@@ -1,0 +1,36 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><header id="gHeader">
+		<div class="hBox clearfix">
+			<h1><a href="./"><img src="../img/common/logo.jpg" alt="WONDER &amp; CO"></a></h1>
+			<ul class="hList pc clearfix">
+				<li><span class="telSpan">TEL<a href="tel:0120028914"><span>0120-028-914</span></a></span>OPEN 10:00-19:00</li>
+				<li class="list"><a href="../contact.php"><img src="../img/common/icon01.png" alt="">お問い合わせ</a></li>
+                <li class="member list"><a href="http://member.wonderco.jp/wonderco/Login.aspx" target="_blank">会員ページ</a></li>
+			</ul>
+		</div>
+		<div class="menu sp"><a href="#"><img src="../img/common/menu.gif" class="open" alt="Menu"><img src="../img/common/sp_close.gif" alt="CLOSE" class="close"></a></div>
+		<nav id="gNavi">
+			<ul class="clearfix">
+				<li><a href="./"><span>TOP</span><span class="pcSpan pc">トップ</span></a></li>
+				<li><a href="../about.html"><span>ABOUT</span>ワンダーとは</a></li>
+				<li><a href="../commitment.html"><span>COMMITMENT</span>ISISのこだわり</a></li>
+				<li class="navi"><a href="../cosmetics.html"><span>COSMETICS</span>コスメライン ISIS</a><span class="iconImg sp"><img class="open" src="../img/common/icon08.gif" alt=""><img class="close" src="../img/common/icon11.gif" alt=""></span>
+					<ul class="hUl">
+						<li><a href="../news.html">イシス シルクジェリー</a></li>
+						<li><a href="../news02.html">イシス シルクシャワー</a></li>
+						<li><a href="../news03.html">パーフェクトケア O2パック</a></li>
+						<li><a href="../news04.html">SCパーフェクトケアエキス</a></li>
+						<li><a href="../news05.html">イシス ライン</a></li>
+						<li><a href="../news06.html">イシス ダイヤモンドセルエッセンス</a></li>
+						<li><a href="../news07.html">UVセラム&amp;ベースクリーム</a></li>
+					</ul>
+				</li>
+				<li><a href="../franchise.html"><span>FRANCHISE</span>フランチャイズ SAIVI</a></li>
+				<li class="pc"><a href="../contact.php"><span>CONTACT</span>お問い合わせ</a></li>
+				<li class="imgLi pc"><a href="https://www.instagram.com/wonder_co_/" target="_blank"><img src="../img/common/h_img.gif" alt=""></a></li>
+			</ul>
+			<div class="btnLink sp"><a href="../contact.php"><img src="../img/common/icon09.gif" alt="">お問い合わせ</a></div>
+			<div class="btnLink btnLink01 sp"><a href="http://member.wonderco.jp/wonderco/Login.aspx" target="_blank">会員ページ</a></div>
+			<div class="telBox sp"><p>TEL<a href="tel:0120028914">0120-028-914 </a><span>OPEN 10:00-19:00</span></p></div>
+			<div class="img sp"><a href="https://www.instagram.com/wonder_co_/" target="_blank"><img src="../img/common/sp_h_img.png" alt=""></a></div>
+		</nav>
+	</header>

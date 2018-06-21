@@ -1,0 +1,17 @@
+/*.mainImg .slick-slide{
+  position: relative;
+  height: 648px;
+}
+*/
+.mainImg .slick-slide video {
+  display: none;
+/*  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform:translate(-50%, -50%);
+*/}

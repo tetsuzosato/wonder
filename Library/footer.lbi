@@ -1,0 +1,67 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><footer id="gFooter">
+		<div class="fBox clearfix">
+			<div class="lBox">
+				<p><span class="txtSpan">電話でのお問い合わせはこちら</span><span class="telSpan">TEL<a href="tel:0120028914"><span>0120-028-914</span></a></span>OPEN 10:00-19:00 </p>
+				<div class="fLogo"><a href="./"><img class="pc" src="../img/common/f_logo.png" alt="暮らしに、未来に、ハッピーな驚きを。WONDER &amp; CO"><img class="sp" src="../img/common/sp_f_logo.png" alt="暮らしに、未来に、ハッピーな驚きを。WONDER &amp; CO"></a></div>
+			</div>
+			<ul class="fNavi pc clearfix">
+				<li>
+					<ul class="navi">
+						<li><a href="./">・ トップ</a></li>
+						<li><a href="../about.html">・ ワンダーとは</a></li>
+						<li><a href="../commitment.html">・ ISISのこだわり</a></li>
+						<li><a href="../franchise.html">・ フランチャイズ SAIVI</a></li>
+						<li><a href="../faq.html">・ よくあるご質問</a></li>
+						<li><a href="../contact.php">・ お問い合わせ</a></li>
+					</ul>
+				</li>
+				<li>
+					<ul class="navi">
+						<li><a href="../cosmetics.html">・ コスメライン ISIS</a></li>
+						<li><a href="../news.html"><span>イシス シルクジェリー</span></a></li>
+						<li><a href="../news02.html"><span>イシス シルクシャワー</span></a></li>
+						<li><a href="../news03.html"><span>パーフェクトケア O2パック</span></a></li>
+					</ul>
+				</li>
+				<li>
+					<ul class="navi">
+						<li><a href="../news04.html"><span>SCパーフェクトケアエキス</span></a></li>
+						<li><a href="../news05.html"><span>イシス ライン</span></a></li>
+						<li><a href="../news06.html"><span>イシス ダイヤモンドセルエッセンス</span></a></li>
+						<li><a href="../news07.html"><span>UVセラム&amp;ベースクリーム</span></a></li>
+					</ul>
+				</li>
+				
+			</ul>
+		</div>
+		<ul class="fNavi sp">
+			<li><a href="./"><span>トップ</span></a></li>
+			<li><a href="../about.html"><span>ワンダーとは</span></a></li>
+			<li><a href="../commitment.html"><span>ISISのこだわり</span></a></li>
+			<li class="fUl"><a href="../cosmetics.html"><span>コスメライン ISIS</span></a><span class="iconImg sp"><img class="open" src="../img/common/icon12.png" alt="+"><img class="close" src="../img/common/icon13.png" alt="-"></span>
+				<ul class="fList">
+					<li><a href="../news.html">イシス シルクジェリー</a></li>
+					<li><a href="../news02.html">イシス シルクシャワー</a></li>
+					<li><a href="../news03.html">パーフェクトケア O2パック</a></li>
+					<li><a href="../news04.html">SCパーフェクトケアエキス</a></li>
+					<li><a href="../news05.html">イシス ライン</a></li>
+					<li><a href="../news06.html">イシス ダイヤモンドセルエッセンス</a></li>
+					<li><a href="../news07.html">UVセラム&amp;ベースクリーム</a></li>
+				</ul>
+			</li>
+			<li><a href="../franchise.html"><span>フランチャイズ SAIVI</span></a></li>
+			<li><a href="../faq.html"><span>よくあるご質問</span></a></li>
+			<li><a href="../contact.php"><span>お問い合わせ</span></a></li>
+		</ul>
+		<div class="fLink"><a href="https://www.instagram.com/wonder_co_/" target="_blank"><img class="pc" src="../img/common/f_img.png" alt="公式Instagram"><img class="sp" src="../img/common/sp_f_img.png" alt="公式Instagram"></a></div>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120058027-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-120058027-1');
+        </script>
+		<div class="copyright"><p>Copyright &copy; WONDER & CO All rights reserved.</p></div>
+	</footer>
